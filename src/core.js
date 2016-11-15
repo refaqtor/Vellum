@@ -2274,7 +2274,7 @@ define([
 
     fn.contributeToHeadXML = function (xmlWriter, form) {}; 
 
-    fn.initWidget = function (widget) {};
+    fn.initMediaUploaderWidget = function (widget) {};
 
     fn.destroy = function () {};
 
